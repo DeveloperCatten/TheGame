@@ -1,1 +1,1 @@
-This is our first time using GitHub.  We are creating a ClickTeam Fusion 2.5 game for fun.
+This is our first time using GitHub.  We are creating a ClickTeam Fusion 2.5 game for fun for us.
